@@ -14,7 +14,7 @@
   {
     "v": 0,
     "name": "emails",
-    "enabled": false,
+    "enabled": true,
     "position": 3
   },
   {
