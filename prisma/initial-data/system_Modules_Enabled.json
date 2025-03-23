@@ -20,13 +20,13 @@
   {
     "v": 0,
     "name": "secondBrain",
-    "enabled": true,
+    "enabled": false,
     "position": 4
   },
   {
     "v": 0,
     "name": "employee",
-    "enabled": false,
+    "enabled": true,
     "position": 5
   },
   {
