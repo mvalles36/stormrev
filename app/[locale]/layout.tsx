@@ -81,19 +81,19 @@ export default async function RootLayout(props: Props) {
           name="viewport"
           content="width=device-width, height=device-height, initial-scale=1"
         />
-        <meta property="og:url" content="https://www.nextcrm.io" />
+        <meta property="og:url" content="https://www.stormrev" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="NextCRM" />
+        <meta property="og:title" content="StormRev" />
         <meta
           property="og:description"
-          content="NextCRM is an open source CRM build on top of NextJS. Technology stack: NextJS with Typescrtipt, MongoDB, TailwindCSS, React, Prisma, shadCN, resend.com, react.email and more."
+          content="StormRev is a roofing sales development platform designed by roofing sales people for roofing sales people to get more meetings for more commissions in record breakiig time.."
         />
-        <meta property="og:image" content="https://nextcrm.io/api/og" />
+        <meta property="og:image" content="https://stormrev.com/api/v1/og" />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:domain" content="nextcrm.io" />
-        <meta property="twitter:url" content="https://www.nextcrm.io" />
-        <meta name="twitter:title" content="NextCRM" />
+        <meta property="twitter:domain" content="stormrev.com" />
+        <meta property="twitter:url" content="https://www.stormrev.com" />
+        <meta name="twitter:title" content="StormRev" />
         <meta
           name="twitter:description"
           content="NextCRM is an open source CRM build on top of NextJS. Technology stack: NextJS with Typescrtipt, MongoDB, TailwindCSS, React, Prisma, shadCN, resend.com, react.email and more."
