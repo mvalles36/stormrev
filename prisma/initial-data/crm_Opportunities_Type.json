@@ -6,17 +6,17 @@
   },
   {
     "v": 0,
-    "name": "Upsale",
+    "name": "Upsell",
     "order": 3
   },
   {
     "v": 0,
-    "name": "New deal",
+    "name": "New Deal",
     "order": 1
   },
   {
     "v": 0,
-    "name": "Cross sale",
+    "name": "Cross-Sell",
     "order": 4
   }
 ]
